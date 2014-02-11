@@ -1,6 +1,6 @@
 //var media_folder = "media"
 //var media_folder = "media/"
-var media_folder = "/Users/craig/Documents/Code/Chromecast/mediaserver/media"
+var media_folder = "/Users/shayan/Downloads"
 var chromecast = require('./chromecast.js')
 
 var fs = require('fs');
